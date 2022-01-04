@@ -1,0 +1,22 @@
+#include <stdio.h> //pilihan pertama 
+#include <iostream> //pilihan kedua
+
+
+//int main(){
+
+return 0; //wajib diakhir activity main dan sebelum kurung tutup kurawal, berfungsi sebagai pengembalian hasil program agar dapat program diatas berjalan
+} //dasar awal membangun program c++
+
+
+//berikut dibawah ini adalah contoh:
+
+#include <stdio.h>
+
+int main()
+{
+	printf("Nama saya Adi Wicaksono\n");
+	printf("Saya mahasiswa jurusan Manajemen Informatika\n");
+	printf("Politeknik Negeri Sriwijaya\n");
+	
+	return 0;
+}

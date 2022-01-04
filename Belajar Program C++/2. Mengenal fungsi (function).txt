@@ -1,0 +1,12 @@
+Simbol Arti atau Fungsi:
+*bilangan = angka
+
+%c	untuk menampilkan karakter,
+%s	untuk menampilkan teks (string),
+%d	untuk menampilkan bilangan desimal,
+%i	untuk menampilkan bilangan desimal,
+%f	untuk menampilkan bilangan pecahan,
+%o	untuk menampilkan bilangan oktal,
+%x	untuk menampilkan bilangan heksadesimal,
+\t	untuk membuat tabs,
+\n 	untuk membuat baris baru.
